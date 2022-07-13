@@ -66,14 +66,6 @@ Total shares should increase proportional to increase in liquidity
 s = (L1 - L0) * T / L0 
 ```
 
-### Mathematical Explanation for all formulas :
-```
-Link1
-Link2
-Link3
-```
-
-
 # General Explanation :
 
 - For users to swap tokens **automatically & quickly**, contract must have liquidity for those tokens all the time
